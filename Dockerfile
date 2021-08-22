@@ -1,4 +1,4 @@
-FROM fithwum/debian-base:buster
+FROM fithwum/debian-base:bullseye
 MAINTAINER fithwum
 
 # URL's for files
