@@ -10,8 +10,8 @@
 
 
 # Set permissions.
-chown 99:100 -R /scan
-chmod 776 -R /scan
+chown 99:100 -R /scan /logs
+chmod 776 -R /scan /logs
 
 # Run.
 
