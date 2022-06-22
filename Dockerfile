@@ -1,5 +1,5 @@
 FROM fithwum/debian-base:bullseye
-LABEL MAINTAINER fithwum
+LABEL maintainer "fithwum"
 
 # URL's for files
 ARG INSTALL_SCRIPT=https://raw.githubusercontent.com/fithwum/clam-av/master/files/Install_Script.sh
